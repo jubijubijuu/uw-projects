@@ -1,2 +1,2 @@
-# uw-projects
-Repo of all the projects I have done at UW
+# UW Projects
+This is a repo containing all the projects I have done at UW.
